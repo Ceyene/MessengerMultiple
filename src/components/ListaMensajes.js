@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Mensajero from "./Mensajero";
 import MensajesEnviados from "./MensajesEnviados";
-import "../styles.css";
+import "../index.css";
 
 class ListaMensajes extends Component {
   state = {

@@ -1,7 +1,4 @@
 import React, { Component } from "react";
-import MensajesEnviados from "./MensajesEnviados";
-
-import "../styles.css";
 
 class Mensajero extends Component {
   render() {

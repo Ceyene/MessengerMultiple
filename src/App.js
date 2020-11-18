@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "./styles.css";
 import ListaMensajes from "./components/ListaMensajes.js";
 
 export default function App() {
